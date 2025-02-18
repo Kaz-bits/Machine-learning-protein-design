@@ -1,0 +1,15 @@
+[{
+ "name": "IDR_DN_SVM_662",
+ "modelSeeds": [
+  "1256250635"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "KKRKKKRRKKRKKKRRRRKDKRRERRRDRRTEKRRKHRKQRKKSGDKKERSSDTDETDDEGDAEEDEKQEDEEDDDDDDDEEDDDDEDEDDEEDEDEDED",
+    "count": 1
+   }
+  }
+ ]
+}
+]

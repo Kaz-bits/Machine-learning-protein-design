@@ -1,0 +1,15 @@
+[{
+ "name": "var7_fcr800",
+ "modelSeeds": [
+  "1861460966"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "KRKRRKRRRRKRKRKKDRKRRKKRKRRRKKRRRQHASKGAGSKQKTTKAKEENDEERDDEHEQESNEGDGADDEEEDDDDDEDEEEEDDDEDDDDDEDEE",
+    "count": 1
+   }
+  }
+ ]
+}
+]

@@ -1,0 +1,15 @@
+[{
+ "name": "var3_400_updated",
+ "modelSeeds": [
+  "374996731"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "AEAHKTHKRQRPQEKRPERTGDKSSPANGARTGKDGKQRGNRNEDGMKQTQSEHRSGSNKTGNDEHNPTEAENHASDTESAEEPEESVNQDEDSESEADH",
+    "count": 1
+   }
+  }
+ ]
+}
+]

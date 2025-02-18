@@ -1,0 +1,15 @@
+[{
+ "name": "lea45_no_tail",
+ "modelSeeds": [
+  "1777188760"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MQSMKETASNIAASAKSGMDKTKATLEEKAEKMKTRDPVQKQMATQVKEDKINQAEMQKRETRQHNAAMKEAAG",
+    "count": 1
+   }
+  }
+ ]
+}
+]
